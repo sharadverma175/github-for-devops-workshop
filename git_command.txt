@@ -1,0 +1,5 @@
+Git init
+Git status
+Git add <file name>
+Git commit -m "adding testing files"
+Git restore
